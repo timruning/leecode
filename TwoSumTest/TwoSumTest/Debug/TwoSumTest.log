@@ -1,0 +1,5 @@
+﻿  TwoSumTest.cpp
+d:\workspace\leetcode\twosumtest\twosumtest\twosumtest.cpp(14): warning C4018: “<”: 有符号/无符号不匹配
+d:\workspace\leetcode\twosumtest\twosumtest\twosumtest.cpp(20): warning C4018: “<”: 有符号/无符号不匹配
+d:\workspace\leetcode\twosumtest\twosumtest\twosumtest.cpp(40): warning C4715: “Solution::twoSum”: 不是所有的控件路径都返回值
+  TwoSumTest.vcxproj -> D:\workspace\leetcode\TwoSumTest\Debug\TwoSumTest.exe

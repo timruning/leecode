@@ -1,0 +1,7 @@
+﻿  ValidAnagram.cpp
+d:\workspace\leetcode\validanagram\validanagram\validanagram.cpp(9): error C3867: “std::basic_string<char,std::char_traits<char>,std::allocator<char>>::length”:  函数调用缺少参数列表；请使用“&std::basic_string<char,std::char_traits<char>,std::allocator<char>>::length”创建指向成员的指针
+d:\workspace\leetcode\validanagram\validanagram\validanagram.cpp(9): error C2446: “!=”: 没有从“unsigned int (__thiscall std::basic_string<char,std::char_traits<char>,std::allocator<char>>::* )(void) throw() const”到“unsigned int”的转换
+          没有使该转换得以执行的上下文
+d:\workspace\leetcode\validanagram\validanagram\validanagram.cpp(9): error C2040: “!=”:“unsigned int”与“unsigned int (__thiscall std::basic_string<char,std::char_traits<char>,std::allocator<char>>::* )(void) throw() const”的间接寻址级别不同
+d:\workspace\leetcode\validanagram\validanagram\validanagram.cpp(12): warning C4018: “<”: 有符号/无符号不匹配
+d:\workspace\leetcode\validanagram\validanagram\validanagram.cpp(14): warning C4018: “<”: 有符号/无符号不匹配

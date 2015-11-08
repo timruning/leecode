@@ -1,0 +1,5 @@
+﻿  ValidNumber.cpp
+d:\workspace\leetcode\validnumber\validnumber\validnumber.cpp(12): warning C4129: “s”: 不可识别的字符转义序列
+d:\workspace\leetcode\validnumber\validnumber\validnumber.cpp(12): warning C4129: “d”: 不可识别的字符转义序列
+d:\workspace\leetcode\validnumber\validnumber\validnumber.cpp(12): warning C4129: “.”: 不可识别的字符转义序列
+  ValidNumber.vcxproj -> D:\workspace\leetcode\ValidNumber\Debug\ValidNumber.exe
