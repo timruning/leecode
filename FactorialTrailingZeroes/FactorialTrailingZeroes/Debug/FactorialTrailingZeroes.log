@@ -1,0 +1,3 @@
+﻿  FactorialTrailingZeroes.cpp
+d:\workspace\leetcode\factorialtrailingzeroes\factorialtrailingzeroes\factorialtrailingzeroes.cpp(13): warning C4244: “+=”: 从“__int64”转换到“int”，可能丢失数据
+  FactorialTrailingZeroes.vcxproj -> D:\workspace\leetcode\FactorialTrailingZeroes\Debug\FactorialTrailingZeroes.exe

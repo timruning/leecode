@@ -1,0 +1,6 @@
+﻿  LengthofLastWord.cpp
+d:\workspace\leetcode\excelsheetcolumnnumber\excelsheetcolumnnumber\lengthoflastword.cpp(1): warning C4627: “#include <iostream>”:  在查找预编译头使用时跳过
+          将指令添加到“stdafx.h”或重新生成预编译头
+d:\workspace\leetcode\excelsheetcolumnnumber\excelsheetcolumnnumber\lengthoflastword.cpp(2): warning C4627: “#include <string>”:  在查找预编译头使用时跳过
+          将指令添加到“stdafx.h”或重新生成预编译头
+d:\workspace\leetcode\excelsheetcolumnnumber\excelsheetcolumnnumber\lengthoflastword.cpp(19): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?

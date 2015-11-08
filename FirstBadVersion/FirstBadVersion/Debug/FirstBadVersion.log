@@ -1,0 +1,8 @@
+﻿  FirstBadVersion.cpp
+d:\workspace\leetcode\firstbadversion\firstbadversion\firstbadversion.cpp(25): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+d:\workspace\leetcode\firstbadversion\firstbadversion\firstbadversion.cpp(26): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+d:\workspace\leetcode\firstbadversion\firstbadversion\firstbadversion.cpp(28): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+d:\workspace\leetcode\firstbadversion\firstbadversion\firstbadversion.cpp(32): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+d:\workspace\leetcode\firstbadversion\firstbadversion\firstbadversion.cpp(38): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+d:\workspace\leetcode\firstbadversion\firstbadversion\firstbadversion.cpp(40): warning C4715: “Solution::firstBadVersion”: 不是所有的控件路径都返回值
+  FirstBadVersion.vcxproj -> D:\workspace\leetcode\FirstBadVersion\Debug\FirstBadVersion.exe

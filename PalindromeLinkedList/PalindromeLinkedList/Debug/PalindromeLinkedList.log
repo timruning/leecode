@@ -1,0 +1,3 @@
+﻿  PalindromeLinkedList.cpp
+d:\workspace\leetcode\palindromelinkedlist\palindromelinkedlist\palindromelinkedlist.cpp(74): warning C4715: “Solution::isPalindrome”: 不是所有的控件路径都返回值
+  PalindromeLinkedList.vcxproj -> D:\workspace\leetcode\PalindromeLinkedList\Debug\PalindromeLinkedList.exe

@@ -1,0 +1,3 @@
+﻿  ContainsDuplicate.cpp
+d:\workspace\leetcode\containsduplicate\containsduplicate\containsduplicate.cpp(13): warning C4018: “<”: 有符号/无符号不匹配
+  ContainsDuplicate.vcxproj -> D:\workspace\leetcode\ContainsDuplicate\Debug\ContainsDuplicate.exe

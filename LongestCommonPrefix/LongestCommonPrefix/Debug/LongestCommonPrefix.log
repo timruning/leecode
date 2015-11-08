@@ -1,0 +1,4 @@
+﻿  LongestCommonPrefix.cpp
+d:\workspace\leetcode\longestcommonprefix\longestcommonprefix\longestcommonprefix.cpp(21): warning C4018: “<”: 有符号/无符号不匹配
+d:\workspace\leetcode\longestcommonprefix\longestcommonprefix\longestcommonprefix.cpp(26): warning C4018: “<”: 有符号/无符号不匹配
+  LongestCommonPrefix.vcxproj -> D:\workspace\leetcode\LongestCommonPrefix\Debug\LongestCommonPrefix.exe

@@ -1,0 +1,3 @@
+﻿  MajorityElement.cpp
+d:\workspace\leetcode\majorityelement\majorityelement\majorityelement.cpp(13): warning C4018: “<”: 有符号/无符号不匹配
+  MajorityElement.vcxproj -> D:\workspace\leetcode\MajorityElement\Debug\MajorityElement.exe
